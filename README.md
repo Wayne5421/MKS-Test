@@ -18,7 +18,6 @@
 
 <h2>Conclusão</h2>
 <p>Mesmo sem ter concluído o projeto, esta experiência foi muito legal!! Ela não apenas ampliou minhas habilidades técnicas, mas também despertou um novo interesse pela comunidade React e Next.js. Estou ansioso para continuar aprendendo e adquirindo mais experiência nessa área.</p>
-
 <p>Se este projeto for considerado, estarei extremamente interessado em aprofundar meus conhecimentos e contribuir para a comunidade de desenvolvedores React e Next.js.</p>
 </body>
 </html>
